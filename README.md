@@ -27,10 +27,10 @@ $ which python
 
 ### 4. パッケージ管理できるようにする
 ```
-$ mkdir requirements.txt
+$ touch requirements.txt
 ```
 
-requirements.txtは以下
+requirements.txtの中身は以下
 ```text
 flet
 ```
